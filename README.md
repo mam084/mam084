@@ -6,7 +6,7 @@ I'm especially interested in clean energy and game analytics.
 
 ## Featured Projects
 
-**[Three Houses Class Optimizer](https://github.com/mam084/three-houses-optimizer)**
+**[Three Houses Class Optimizer](https://github.com/mam084/three-houses-optimizer)** · [live](https://three-houses-optimizer.streamlit.app)
 Interactive Streamlit tool that recommends Fire Emblem: Three Houses class paths and teams, using scraped game data, cosine-similarity role detection, constraint-aware class scoring, and stat simulation. 230+ tests and CI.
 
 **[Steam Game Success Prediction](https://github.com/mam084/steam-game-success-prediction)**

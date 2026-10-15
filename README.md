@@ -27,4 +27,4 @@ More: [portfolio site](https://mam084.github.io/portfolio/)
 Python · SQL · PySpark · R · NoSQL · pandas · NumPy · scikit-learn · PyTorch · Streamlit · D3 · Git
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/matthewmitchell-6794b9254) · matt_mitchell@mac.com
+[LinkedIn](https://www.linkedin.com/in/matthew-mitchell-6794b9254/) · matt_mitchell@mac.com
